@@ -25,6 +25,16 @@ nato_alphabet = {
     "x": "x-ray",
     "y": "yankee",
     "z": "zulu",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 raf_1921 = {
@@ -54,6 +64,16 @@ raf_1921 = {
     "x": "x-ray",
     "y": "yorker",
     "z": "zebra",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 uk_navy_1917 = {
@@ -83,6 +103,16 @@ uk_navy_1917 = {
     "x": "xerxes",
     "y": "yellow",
     "z": "zebra",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 us_army_1916 = {
@@ -112,6 +142,16 @@ us_army_1916 = {
     "x": "x-ray",
     "y": "yoke",
     "z": "zed",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 us_army_1943 = {
@@ -141,6 +181,16 @@ us_army_1943 = {
     "x": "xray",
     "y": "yoke",
     "z": "zebra",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 us_navy_1913 = {
@@ -170,6 +220,16 @@ us_navy_1913 = {
     "x": "x-ray",
     "y": "yoke",
     "z": "zed",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 us_navy_1938 = {
@@ -199,6 +259,16 @@ us_navy_1938 = {
     "x": "x-ray",
     "y": "yoke",
     "z": "zed",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
 
 us_navy_WWII = {
@@ -228,4 +298,14 @@ us_navy_WWII = {
     "x": "xray",
     "y": "yoke",
     "z": "zebra",
+    "0": "zero",
+    "1": "one",
+    "2": "two",
+    "3": "three",
+    "4": "four",
+    "5": "five",
+    "6": "six",
+    "7": "seven",
+    "8": "eight",
+    "9": "nine",
 }
