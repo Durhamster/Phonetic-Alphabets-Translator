@@ -9,16 +9,12 @@ will be added in the future.
 
 ## Installation
 
----
-
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
 
 ```bash
 pip install -r requirements.txt
 ```
 ## Usage
-
----
 
 To use this, simply run the following in your terminal of choice:
 
@@ -27,8 +23,6 @@ python app.py
 ```
 
 ## Current List of Historical Phonetic Alphabets
-
----
 
 1. NATO (Present Day)
 1. RAF 1921
