@@ -1,5 +1,5 @@
 # Phonetic Alphabets Translator
-![Python Version](https://img.shields.io/pypi/pyversions/plotly)
+![Python Version](https://img.shields.io/pypi/pyversions/plotly?style=for-the-badge)
 ![License](https://img.shields.io/github/license/Durhamster/Phonetic-Alphabets-Translator?style=for-the-badge)
 
  Translates any word or phrase into one of several historical phonetic alphabets.
@@ -7,14 +7,18 @@
 At this time only english characters are translated. Numbers, along with other alphabets,
 will be added in the future.
 
-# Installation
+## Installation
+
+---
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
 
 ```bash
 pip install -r requirements.txt
 ```
-# Usage
+## Usage
+
+---
 
 To use this, simply run the following in your terminal of choice:
 
@@ -22,7 +26,9 @@ To use this, simply run the following in your terminal of choice:
 python app.py
 ```
 
-# Current List of Historical Phonetic Alphabets
+## Current List of Historical Phonetic Alphabets
+
+---
 
 1. NATO (Present Day)
 1. RAF 1921
