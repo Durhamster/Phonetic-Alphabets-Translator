@@ -1,3 +1,4 @@
+import qdarkstyle
 import sys
 from PyQt5 import QtGui, QtWidgets
 from PyQt5.QtCore import QSize
@@ -17,12 +18,13 @@ from alphabets import (
     us_army_1943,
     us_navy_1913,
     us_navy_1938,
-    us_navy_WWII
+    us_navy_WWII,
+    aar_1932
 )
 
 def spelling(alphabet, self):
     word_phrase = []
-    if alphabet == "NATO":
+    if alphabet == "NATO (Present)":
         alphabet = nato_alphabet
     elif alphabet == "RAF 1921":
         alphabet = raf_1921
@@ -38,6 +40,8 @@ def spelling(alphabet, self):
         alphabet = us_navy_1938
     elif alphabet == "US Navy WWII":
         alphabet = us_navy_WWII
+    elif alphabet == "AAR 1932":
+        alphabet = aar_1932
 
 
     for letter in self.line.text():
@@ -70,7 +74,8 @@ class MainWindow(QMainWindow):
         # Dropdown box
         self.dropDown = QComboBox(self)
         self.dropDown.move(130, 10)
-        self.dropDown.addItem("NATO")
+        self.dropDown.addItem("NATO (Present)")
+        self.dropDown.addItem("AAR 1932")
         self.dropDown.addItem("RAF 1921")
         self.dropDown.addItem("UK Navy 1917")
         self.dropDown.addItem("US Army 1916")
@@ -113,6 +118,7 @@ class MainWindow(QMainWindow):
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
+    app.setStyleSheet(qdarkstyle.load_stylesheet(qt_api="pyqt5"))
     mainWin = MainWindow()
     mainWin.show()
     sys.exit(app.exec_())
