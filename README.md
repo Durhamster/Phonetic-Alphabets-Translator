@@ -14,6 +14,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install -r requirements.txt
 ```
+
+or
+
+Using [pipenv](https://pipenv.pypa.io/en/latest/):
+
+```bash
+pipenv install
+```
 ## Usage
 
 To use this, simply run the following in your terminal of choice:
