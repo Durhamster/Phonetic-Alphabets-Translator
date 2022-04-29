@@ -1,5 +1,5 @@
 # Phonetic Alphabets Translator
-![Python Version](https://img.shields.io/pypi/pyversions/plotly?style=for-the-badge)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Durhamster/Phonetic-Alphabets-Translator?color=blue&style=for-the-badge)
 ![License](https://img.shields.io/github/license/Durhamster/Phonetic-Alphabets-Translator?style=for-the-badge)
 
  Translates any word or phrase into one of several historical phonetic alphabets.
